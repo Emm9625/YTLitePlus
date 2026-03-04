@@ -6,7 +6,7 @@
     {
       "appID": "com.google.ios.youtube",
       "name": "YTLitePlus",
-      "bundle": "com.google.ios.youtube",
+      "bundleIdentifier": "com.google.ios.youtube",
       "version": "21.06.2-5.2b4",
       "versionDate": "2024-06-09T19:17:30Z",
       "downloadURL": "https://github.com/Emm9625/YTLitePlus/releases/download/v21.06.2-5.2b4/YTLitePlus_21.06.2_5.2b4.ipa",
