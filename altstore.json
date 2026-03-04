@@ -4,17 +4,31 @@
   "sourceURL": "https://raw.githubusercontent.com/Emm9625/YTLitePlus/main/altstore.json",
   "apps": [
     {
-      "appID": "com.google.ios.youtube",
+      "beta": false,
       "name": "YTLitePlus",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.06.2-5.2b4",
+      "developerName": "Various Developers",
+      "subtitle": "YTLite with more features!",
+      "version": "21.06.2",
       "versionDate": "2024-06-09T19:17:30Z",
+      "versionDescription": "YTLitePlus 21.06.2-5.2b4",
       "downloadURL": "https://github.com/Emm9625/YTLitePlus/releases/download/v21.06.2-5.2b4/YTLitePlus_21.06.2_5.2b4.ipa",
       "localizedDescription": "Lightweight YouTube client with extra features",
       "iconURL": "https://raw.githubusercontent.com/Emm9625/YTLitePlus/main/icon.png",
       "tintColor": "000000",
+      "category": "social",
+      "size": 0,
       "screenshotURLs": [
         "https://raw.githubusercontent.com/Emm9625/YTLitePlus/main/screenshots/news/new_release.png"
+      ],
+      "versions": [
+        {
+          "version": "21.06.2",
+          "date": "2024-06-09T19:17:30Z",
+          "localizedDescription": "YTLitePlus 21.06.2-5.2b4",
+          "downloadURL": "https://github.com/Emm9625/YTLitePlus/releases/download/v21.06.2-5.2b4/YTLitePlus_21.06.2_5.2b4.ipa",
+          "size": 0
+        }
       ]
     }
   ],
